@@ -4,9 +4,9 @@ I'm a Computer Science student passionate about **coding, algorithms, machine le
 
 ## 🌱 Currently Learning:
 
-- Advanced **Data Structures & Algorithms**  
+- **Data Structures & Algorithms**  
 - **Machine Learning** and **AI**  
-- **Web Development** 
+- **Operating System** 
 
 ## 📫 How to reach me:
 
